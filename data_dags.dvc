@@ -1,0 +1,5 @@
+outs:
+    - md5: 57f36e3b5115b342a8293310daea9631.dir
+      size: 56823553
+      path: data_dags
+      nfiles: 6
