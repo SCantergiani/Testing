@@ -1,0 +1,5 @@
+outs:
+    - md5: edd78d9bf0e19afdebde36a166f0758f.dir
+      size: 53218
+      path: data_dags_locally
+      nfiles: 2
